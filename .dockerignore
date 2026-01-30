@@ -1,0 +1,10 @@
+# --- SEGURIDAD ---
+.env
+
+# --- GIT ---
+.gitignore
+
+# --- DOCKER ---
+docker-compose.yml
+Dockerfile
+
